@@ -5,8 +5,6 @@ import java.util.Scanner;
 
 public class Conference {
 	
-	
-
 	public Conference() {
 		wyborUzytkownika();
 	}
