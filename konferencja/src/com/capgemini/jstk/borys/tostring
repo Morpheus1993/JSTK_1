@@ -1,0 +1,1 @@
+System.out.print(lista.get(i).getImie() + " "); + System.out.print(lista.get(i).getNazwisko() + " "); + //System.out.print(lista.get(i).getDataUrodzenia() + " "); + System.out.print(lista.get(i).getWiek() + " "); + System.out.println(""); 
